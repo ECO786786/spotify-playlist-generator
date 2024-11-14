@@ -20,9 +20,8 @@ By clustering songs based on Spotify’s audio features and auto generating play
 
 - **Python**
 - **Flask**
-  - Libraries:
-    - `pandas` for data manipulation
-    - `numpy` for numerical computations
-    - `scikit-learn` for machine learning models
-    - `matplotlib` and `seaborn` for data visualization
-    - `spotipy` for interacting with the Spotify API
+- **pandas** for data manipulation
+- **scikit-learn** for machine learning models
+- **matplotlib** for data visualization
+- **seaborn** for data visualization
+- **spotipy** for interacting with the Spotify API
